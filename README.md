@@ -36,6 +36,12 @@ Download the zip file from the google drive link in the Joint_NER_RE/data/CoNLL0
 
 python main.py
 
+When running for the first time run the following commands and then run python main.py
+
+import nltk
+
+nltk.download('averaged_perceptron_tagger')
+
 Code currently runs on CoNLL04 config file by default.
 
 For other detailed explanation of how to modify the code to run for your dataset (https://github.com/Sanjithae/Joint_NER_RE/blob/master/How_to_run.txt)
