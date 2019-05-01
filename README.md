@@ -34,6 +34,12 @@ that could be specified in the configuration files.
 
 python main.py
 
+Code currently runs on CoNLL04 config file by default.
+
+For other detailed explanation of how to modify the code to run for your dataset (https://github.com/Sanjithae/Joint_NER_RE/blob/master/How_to_run.txt)
+
+
+
 ## Benchmark Datasets
 1) CoNLL04
 2) SemEval 2010 Task 8
@@ -54,8 +60,6 @@ python main.py
 
 ## Jupyter Notebook
 You can see the execution of the code in this [jupyter notebook](https://github.com/Sanjithae/Joint_NER_RE/blob/master/execution-demo.ipynb)
-
-For other detailed explanation of how to modify the code to run for your dataset (https://github.com/Sanjithae/Joint_NER_RE/blob/master/How_to_run.txt)
 
 
 ## Youtube Video
