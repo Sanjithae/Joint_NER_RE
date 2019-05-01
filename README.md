@@ -32,6 +32,8 @@ that could be specified in the configuration files.
 
 ## Run the model
 
+Download the zip file from the google drive link in the Joint_NER_RE/data/CoNLL04/ and place the zip file at that location.
+
 python main.py
 
 Code currently runs on CoNLL04 config file by default.
