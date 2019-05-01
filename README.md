@@ -47,7 +47,7 @@ python main.py
 
 ## Results 
 
- Test Score on 70.766 in 150 epoch on CoNLL04.
+ Test Score is 70.766 in 150 epoch on CoNLL04.
  
  Test Score is 68.95 in 150 epoch on SemEval 2010 Task 8.
  
