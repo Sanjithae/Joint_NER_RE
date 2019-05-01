@@ -61,7 +61,8 @@ For other detailed explanation of how to modify the code to run for your dataset
 ## Youtube Video
 
 Click [here](https://youtu.be/8sQ357ymC_U) to play the video.
- ## Citation
+
+## Citation
  
 Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder. Joint entity recognition and relation extraction as a multi-head selection problem. Expert Systems with Applications, Volume 114, Pages 34-45, 2018
 
