@@ -67,7 +67,7 @@ For other detailed explanation of how to modify the code to run for your dataset
  
 
 ## Jupyter Notebook
-You can see the execution of the code in this [jupyter notebook](https://github.com/Sanjithae/Joint_NER_RE/blob/master/execution-demo.ipynb)
+You can see the execution of the code in this [jupyter notebook](https://github.com/Sanjithae/Joint_NER_RE/blob/master/Joint_NER_RE_Demo.ipynb)
 
 
 ## Youtube Video
