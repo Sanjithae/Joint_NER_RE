@@ -1,4 +1,4 @@
-# Joint_NER_RE
+# Joint entity recognition and relation extraction as a multi-head selection problem
 
 MultiHead Joint Entity Relation Extraction
 
